@@ -4,3 +4,4 @@
 /kibana/data/logs
 /kibana/node_modules
 /elasticsearch/logs
+/.idea
