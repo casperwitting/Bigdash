@@ -1,0 +1,6 @@
+/filebeat/logs
+/filebeat/filebeat.yml
+/logstash/logs
+/kibana/data/logs
+/kibana/node_modules
+/elasticsearch/logs
